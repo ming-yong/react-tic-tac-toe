@@ -27,3 +27,4 @@ Tic Tac Toe browser game. This is my first React practice project, I wrote a [bl
 2. `cd` to the project location.
 3. Run `npm install` in your terminal window(for example, `Git Bash`).
 4. Run `npm start` in your terminal window.
+5. Head over to `http://localhost:3000/` in your browser and you should see the project.
