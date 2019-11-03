@@ -2,7 +2,7 @@
 
 ![image: demonstration of tic tac toe browser game](https://github.com/ming-yong/react-tic-tac-toe/blob/master/react_ticTacToe.gif)
 
-Tic Tac Toe browser game. This is my first React practice project, I wrote a [blog post about my understanding of the code]().
+Tic Tac Toe browser game. This is my first React practice project, I wrote a [blog post about my understanding of the code](https://ming-yong.github.io/blog/javascript/2019/11/02/react-tic-tac-toe/).
 
 ## User stories
 
@@ -13,7 +13,7 @@ Tic Tac Toe browser game. This is my first React practice project, I wrote a [bl
 ## Reference
 
 - Code from: [React official tutorial: "Tutorial: Intro to React"](https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial). This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-- Deployment by following: [Blog post "How to deploy React App to GitHub Pages" by Ibrahim Ragab](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+- Deployment by following: [Blog post "How to deploy React App to GitHub Pages" by Ibrahim Ragab](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f).
 
 ## Running this project
 
