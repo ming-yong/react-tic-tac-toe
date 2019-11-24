@@ -68,3 +68,23 @@ ul {
 .game-info {
 	margin-left: 20px;
 }
+
+.btn{
+		padding:0.25em;
+		margin:0.5em;
+		background:white;
+		border: 2px solid black;
+		border-radius: 4px;
+}
+
+.btn_des,.btn_current{
+	background:yellow;
+}
+
+.winnerPath{
+	background: yellow;
+}
+
+.status{
+	font-size:1.5rem;
+}
