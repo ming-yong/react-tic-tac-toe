@@ -1,6 +1,6 @@
 # React Tic Tac Toe
 
-Tic Tac Toe browser game. This is my first React practice project, I wrote 2 blog posts about [my understanding of the code](https://ming-yong.github.io/blog/javascript/2019/11/02/react-tic-tac-toe/) and [how I implemented all the additional features](https://ming-yong.github.io/blog/javascript/2019/11/23/adding-remaining-features-to-the-react-tic-tac-toe/).
+Tic Tac Toe browser game. This is my first React practice project, I wrote 2 posts about [my understanding of the code](https://ming-yong.github.io/2019/11/02/react-tic-tac-toe/) and [how I implemented all the additional features](https://ming-yong.github.io/2019/11/23/react-tic-tac-toe-remaining-features/).
 
 ## Version 2
 
